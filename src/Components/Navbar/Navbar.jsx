@@ -7,6 +7,7 @@ const Navbar = () => {
     </>
 
     return (
+        // Start Navbar
         <div>
             <div className="navbar bg-base-200 fixed z-10">
                 <div className="navbar-start">
@@ -30,6 +31,7 @@ const Navbar = () => {
                 </div>
             </div>
         </div>
+        // End Navbar
     );
 };
 
